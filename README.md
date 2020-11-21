@@ -10,8 +10,8 @@
 ### cd python3 manage.py runserver -> 
 ### cd connect to. 127.0.0.1/8000/admin
 
-## cd 前端：
-### cd cd djreact -> 
+## 前端：
+### cd djreact -> 
 ### cd cd frontend -> 
 ### cd cd gui -> 
 ### cd npm install -> 
