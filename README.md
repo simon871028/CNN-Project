@@ -4,7 +4,7 @@
 ### cd djreact -> 
 ### cd backend -> 
 ### virtualenv env ->
-### source env/bin/activated ->
+### source env/bin/activate ->
 ### pip3 install -r requirements.txt ->
 ### cd src -> 
 ### python3 manage.py runserver -> 
